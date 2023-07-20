@@ -1,0 +1,198 @@
+
+.nav-link{
+
+
+    color: white !important;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+font-size: 1.4rem;
+
+
+
+}
+.display-3{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+
+}
+.py-2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+    color: white !important;
+}
+
+
+.navbar-brand{
+
+
+    color: rgb(234, 170, 51) !important;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
+
+
+.nav-link:hover{
+
+
+
+
+    color: rgb(239, 170, 43) !important;
+/* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+font-size: 100rem !important; */
+
+
+}
+
+.bhavar1{
+
+    border-radius: 20rem !important;
+
+    /* @keyframes radhika {
+        
+    }
+
+
+animation-duration: 4s !important;
+animation-direction: reverse !important ;
+opacity: 0.8; */
+
+}
+
+.hero-header img {
+    animation: imgRotate 50s linear infinite;
+}
+
+@keyframes imgRotate { 
+    100% { 
+        transform: rotate(360deg); 
+    } 
+}
+
+
+.radhikab{
+    border-radius: 15rem !important;
+
+}
+
+
+
+
+
+/* ........SERVICES STARTS........ */
+
+
+
+.service-item {
+    box-shadow: 0 0 45px rgba(0, 0, 0, .08);
+    transition: .5s;
+}
+
+.service-item:hover {
+    background: var(--primary);
+}
+
+.service-item * {
+    transition: .5s;
+}
+
+.service-item:hover * {
+    color:rgb(248, 245, 241) !important;
+    background-color: rgb(204, 87, 10) !important;
+}
+
+
+
+/* .......ABOUT SECTION START....... */
+.text-start{
+color: rgb(248, 166, 14) !important;
+font-size: 2rem !important;
+font-family: Georgia, 'Times New Roman', Times, serif !important;
+
+
+
+
+}
+
+
+.rom{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+
+
+.display-5{
+
+    color: rgb(252, 168, 11) !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+
+}
+
+
+.px-5{
+
+    background-color: rgb(244, 162, 8) !important;
+ font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+    font-size: 1rem !important;
+}
+
+/* .section-title.text-start::before,
+.section-title.text-end::after {
+    display: none;
+} */
+.fw-normal{
+    color: rgb(255, 170, 11) !important;
+}
+
+
+
+.text-body{
+    font-size: 1rem !important;
+}
+
+
+.dom{
+
+    font-size: 1.8rem !important;
+color: black !important;
+
+
+}
+.fst-italic{
+    font-size: .8rem !important;
+    color: gray !important;
+}
+.sp-5{
+    color: black !important;
+}
+
+
+
+.pb-2{
+    color: black !important;
+}
+
+
+.btn-play{
+
+    height: 100vh !important;
+    width: 100vh !important;
+}
+
+.don{
+
+    font-weight: 1000!important;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+font-style: italic !important;
+}
+
+.rope{
+    font-weight: 700 !important;
+}
+
+.job{
+    color: rgb(74, 72, 72);
+    /* font-weight: 300; */
+}
+.rob{
+    font-weight: 700 !important;
+}
+.dnc{
+    border-radius: 2rem !important;
+}
